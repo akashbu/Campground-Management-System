@@ -7,14 +7,14 @@ This Web App is deployed at https://guarded-retreat-63966.herokuapp.com/
 
 Steps to run the web app:
 
-#Clone the project
+#Clone the project :->
 git clone https://github.com/akashbu/Campground-Management-System.git 
 
-#Change Directory
+#Change Directory:->
 cd Campground-Management-System
 
-#Install all dependencies
+#Install all dependencies:->
 npm install
 
-#Run on local host
+#Run on local host:->
 node app.js
